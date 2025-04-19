@@ -1,0 +1,97 @@
+body {
+    background-color: white;
+    font-family: 'Arial', sans-serif;
+    font-size: 15px;
+    text-align: left;
+    display:block;
+}
+
+h1, h2, h3 {
+    color: #ffffff;
+}
+h1{
+    font-size: 50px;
+}
+
+.btn-outline-light {
+    border-color: #ffffff;
+}
+
+.btn-outline-light:hover {
+    background-color: white;
+    color:black;
+}
+
+.code-snippet {
+    background-color: #222;
+    padding: 10px;
+    border-radius: 5px;
+    width:max-content;
+    height:auto;
+}
+nav{
+    height: 200px;
+}
+.type,name,required
+
+.host {
+    color: #aaaaaa;
+}
+.contact {
+    background-color: #1a1a2e;
+    color: white;
+}
+.header {
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+}
+.section {
+    padding: 3px 0;
+}
+.card {
+    background-color: #0f3460;
+    border: none;
+}
+.price-tag ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .price-tag li {
+    margin-bottom: 10px;
+  }
+  
+  .mark {
+    color: green;
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .statement {
+    font-size: 16px;
+  }
+  .feature-list {
+    list-style: none; /* Removes default bullets */
+    padding: 0;
+  }
+  
+  .feature-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .check-circle {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    color: white;
+    border-radius: 50%;
+    font-size: 14px;
+    margin-right: 10px;
+  }
